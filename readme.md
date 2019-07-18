@@ -1,6 +1,6 @@
 ##安装说明：  
 更新代码  
-`git clone https://github.com/zhangxuesong/jkzgcyw.git`  
+`git clone https://github.com/zhangxuesong/myLaraCMS.git`  
 配置虚拟环境  
 修改本地配置  
 `cp .env.example .env`  
